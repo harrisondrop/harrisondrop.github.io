@@ -20,7 +20,7 @@
     padding: 0px;
     margin: 0px;    
   }
-  <h1>{
+  h1{
     color: blue;
     text-align: center;
   }
