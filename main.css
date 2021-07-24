@@ -14,7 +14,7 @@
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
     vertical-align: bottom;
-    background-color: black;
+    background-color: lightgrey;
   }
   hr{
     padding: 0px;
@@ -38,5 +38,7 @@
     width: 100px;
     heigh:100px;
     text-align: center;
+    color: yellow;
+    font-size: 30px;
 }
 </style>
